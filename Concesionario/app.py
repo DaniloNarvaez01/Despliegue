@@ -1,11 +1,7 @@
 from flask import Flask
-from flask import render_template, request, redirect,Response, session, url_for # Importamos flask y los metodos
-from datetime import datetime # Para colocar tiempo deal a las imagenes
+from flask import render_template
 from flask import send_from_directory #Para obtener informacion de una imagen
 import os
-from flask_paginate import Pagination
-import logging
-from flask_login import current_user
 
 
 app=Flask(__name__)
