@@ -1,0 +1,612 @@
+2023-12-06 10:45:29,827 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-06 10:45:29,827 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 10:45:29,834 - INFO -  * Restarting with stat
+2023-12-06 10:45:30,411 - WARNING -  * Debugger is active!
+2023-12-06 10:45:30,427 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:47:00,478 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:47:00,524 - INFO -  * Restarting with stat
+2023-12-06 10:47:01,126 - WARNING -  * Debugger is active!
+2023-12-06 10:47:01,143 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:47:29,113 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:47:29,169 - INFO -  * Restarting with stat
+2023-12-06 10:47:29,762 - WARNING -  * Debugger is active!
+2023-12-06 10:47:29,778 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:48:27,736 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:48:27,779 - INFO -  * Restarting with stat
+2023-12-06 10:48:28,355 - WARNING -  * Debugger is active!
+2023-12-06 10:48:28,371 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:48:34,300 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:34] "GET /admin/login2 HTTP/1.1" 200 -
+2023-12-06 10:48:34,330 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:34] "GET /admin/sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:48:34,331 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:34] "GET /admin/css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:48:40,454 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:40] "GET / HTTP/1.1" 200 -
+2023-12-06 10:48:40,480 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:40] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:48:40,488 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:40] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:48:40,499 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:40] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:48:40,774 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:40] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:48:40,776 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:40] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:48:40,785 - INFO - 127.0.0.1 - - [06/Dec/2023 10:48:40] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:49:15,248 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:15,298 - INFO -  * Restarting with stat
+2023-12-06 10:49:15,886 - WARNING -  * Debugger is active!
+2023-12-06 10:49:15,902 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:16,972 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:17,018 - INFO -  * Restarting with stat
+2023-12-06 10:49:17,616 - WARNING -  * Debugger is active!
+2023-12-06 10:49:17,631 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:18,724 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:18,766 - INFO -  * Restarting with stat
+2023-12-06 10:49:19,341 - WARNING -  * Debugger is active!
+2023-12-06 10:49:19,360 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:21,290 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:21,341 - INFO -  * Restarting with stat
+2023-12-06 10:49:21,941 - WARNING -  * Debugger is active!
+2023-12-06 10:49:21,961 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:23,045 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:23,111 - INFO -  * Restarting with stat
+2023-12-06 10:49:23,692 - WARNING -  * Debugger is active!
+2023-12-06 10:49:23,706 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:27,944 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:28,031 - INFO -  * Restarting with stat
+2023-12-06 10:49:28,634 - WARNING -  * Debugger is active!
+2023-12-06 10:49:28,649 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:29,726 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:29,769 - INFO -  * Restarting with stat
+2023-12-06 10:49:30,344 - WARNING -  * Debugger is active!
+2023-12-06 10:49:30,359 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:32,481 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:32,522 - INFO -  * Restarting with stat
+2023-12-06 10:49:33,095 - WARNING -  * Debugger is active!
+2023-12-06 10:49:33,110 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:38,317 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:38,357 - INFO -  * Restarting with stat
+2023-12-06 10:49:38,924 - WARNING -  * Debugger is active!
+2023-12-06 10:49:38,940 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:45,243 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:45,324 - INFO -  * Restarting with stat
+2023-12-06 10:49:45,897 - WARNING -  * Debugger is active!
+2023-12-06 10:49:45,912 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:49:57,348 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:49:57,390 - INFO -  * Restarting with stat
+2023-12-06 10:49:57,990 - WARNING -  * Debugger is active!
+2023-12-06 10:49:58,007 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:50:11,525 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:50:11,568 - INFO -  * Restarting with stat
+2023-12-06 10:50:12,153 - WARNING -  * Debugger is active!
+2023-12-06 10:50:12,168 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:50:22,553 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:50:22,595 - INFO -  * Restarting with stat
+2023-12-06 10:52:31,742 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-06 10:52:31,743 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 10:52:31,750 - INFO -  * Restarting with stat
+2023-12-06 10:52:32,319 - WARNING -  * Debugger is active!
+2023-12-06 10:52:32,335 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:52:58,102 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-06 10:52:58,103 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 10:52:58,131 - INFO -  * Restarting with stat
+2023-12-06 10:52:58,756 - WARNING -  * Debugger is active!
+2023-12-06 10:52:58,775 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:53:37,939 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-06 10:53:37,940 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 10:53:37,946 - INFO -  * Restarting with stat
+2023-12-06 10:53:38,492 - WARNING -  * Debugger is active!
+2023-12-06 10:53:38,507 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:53:49,042 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:49] "GET / HTTP/1.1" 200 -
+2023-12-06 10:53:49,082 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:49] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:53:49,084 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:49] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:53:49,127 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:49] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:53:49,290 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:49] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:53:49,291 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:49] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:53:49,303 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:49] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:53:51,105 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:51] "GET /admin/login2 HTTP/1.1" 200 -
+2023-12-06 10:53:51,136 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:51] "GET /admin/sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:53:51,142 - INFO - 127.0.0.1 - - [06/Dec/2023 10:53:51] "GET /admin/css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:54:02,290 - INFO - Usuario: {current_user} ha iniciado sesion
+2023-12-06 10:54:02,292 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:02] "[32mPOST /admin/login2 HTTP/1.1[0m" 302 -
+2023-12-06 10:54:02,304 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:02] "GET / HTTP/1.1" 200 -
+2023-12-06 10:54:02,346 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:02] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:54:02,349 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:02] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:54:02,360 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:02] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:54:02,364 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:02] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:54:02,366 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:02] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:54:02,366 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:02] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:54:52,397 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:54:52,452 - INFO -  * Restarting with stat
+2023-12-06 10:54:53,075 - WARNING -  * Debugger is active!
+2023-12-06 10:54:53,096 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:54:56,095 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:56] "[32mGET /admin/cerrar HTTP/1.1[0m" 302 -
+2023-12-06 10:54:56,116 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:56] "GET / HTTP/1.1" 200 -
+2023-12-06 10:54:56,145 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:56] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:54:56,153 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:56] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:54:56,159 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:56] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:54:56,309 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:56] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:54:56,324 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:56] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:54:56,326 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:56] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:54:57,254 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:57] "GET /admin/login2 HTTP/1.1" 200 -
+2023-12-06 10:54:57,379 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:57] "GET /admin/sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:54:57,382 - INFO - 127.0.0.1 - - [06/Dec/2023 10:54:57] "GET /admin/css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:55:02,845 - INFO - Usuario: { session['usuario'] } ha iniciado sesion
+2023-12-06 10:55:02,846 - INFO - 127.0.0.1 - - [06/Dec/2023 10:55:02] "[32mPOST /admin/login2 HTTP/1.1[0m" 302 -
+2023-12-06 10:55:02,857 - INFO - 127.0.0.1 - - [06/Dec/2023 10:55:02] "GET / HTTP/1.1" 200 -
+2023-12-06 10:55:02,894 - INFO - 127.0.0.1 - - [06/Dec/2023 10:55:02] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:55:02,901 - INFO - 127.0.0.1 - - [06/Dec/2023 10:55:02] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:55:02,907 - INFO - 127.0.0.1 - - [06/Dec/2023 10:55:02] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:55:02,911 - INFO - 127.0.0.1 - - [06/Dec/2023 10:55:02] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:55:02,917 - INFO - 127.0.0.1 - - [06/Dec/2023 10:55:02] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:55:02,917 - INFO - 127.0.0.1 - - [06/Dec/2023 10:55:02] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:55:30,532 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:55:30,577 - INFO -  * Restarting with stat
+2023-12-06 10:55:31,210 - WARNING -  * Debugger is active!
+2023-12-06 10:55:31,226 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:55:32,328 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:55:32,371 - INFO -  * Restarting with stat
+2023-12-06 10:55:33,031 - WARNING -  * Debugger is active!
+2023-12-06 10:55:33,046 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:55:34,115 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:55:34,166 - INFO -  * Restarting with stat
+2023-12-06 10:55:34,839 - WARNING -  * Debugger is active!
+2023-12-06 10:55:34,856 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:55:37,004 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:55:37,049 - INFO -  * Restarting with stat
+2023-12-06 10:55:37,621 - WARNING -  * Debugger is active!
+2023-12-06 10:55:37,637 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:55:40,811 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:55:40,858 - INFO -  * Restarting with stat
+2023-12-06 10:55:41,438 - WARNING -  * Debugger is active!
+2023-12-06 10:55:41,456 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:55:44,603 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:55:44,654 - INFO -  * Restarting with stat
+2023-12-06 10:55:45,240 - WARNING -  * Debugger is active!
+2023-12-06 10:55:45,260 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:55:48,414 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:55:48,480 - INFO -  * Restarting with stat
+2023-12-06 10:56:07,493 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-06 10:56:07,493 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 10:56:07,499 - INFO -  * Restarting with stat
+2023-12-06 10:56:08,054 - WARNING -  * Debugger is active!
+2023-12-06 10:56:08,070 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:56:09,142 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:09] "[32mGET /admin/cerrar HTTP/1.1[0m" 302 -
+2023-12-06 10:56:09,195 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:09] "GET / HTTP/1.1" 200 -
+2023-12-06 10:56:09,315 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:09] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:56:09,317 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:09] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:56:09,332 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:09] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:56:09,511 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:09] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:56:09,516 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:09] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:56:09,519 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:09] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:56:13,196 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:13] "[32mGET /admin/cerrar HTTP/1.1[0m" 302 -
+2023-12-06 10:56:13,216 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:13] "GET / HTTP/1.1" 200 -
+2023-12-06 10:56:13,269 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:13] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:56:13,277 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:13] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:56:13,290 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:13] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:56:13,298 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:13] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:56:13,328 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:13] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:56:13,329 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:13] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:56:15,494 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:15] "GET /admin/login2 HTTP/1.1" 200 -
+2023-12-06 10:56:15,520 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:15] "GET /admin/sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:56:15,523 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:15] "GET /admin/css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:56:22,064 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:22] "[32mPOST /admin/login2 HTTP/1.1[0m" 302 -
+2023-12-06 10:56:22,075 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:22] "GET / HTTP/1.1" 200 -
+2023-12-06 10:56:22,112 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:22] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:56:22,115 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:22] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:56:22,125 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:22] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:56:22,126 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:22] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:56:22,219 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:22] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:56:22,220 - INFO - 127.0.0.1 - - [06/Dec/2023 10:56:22] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:57:38,416 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 10:57:38,470 - INFO -  * Restarting with stat
+2023-12-06 10:57:50,859 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-06 10:57:50,859 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 10:57:50,865 - INFO -  * Restarting with stat
+2023-12-06 10:57:51,452 - WARNING -  * Debugger is active!
+2023-12-06 10:57:51,469 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 10:57:51,512 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:51] "[32mGET /admin/cerrar HTTP/1.1[0m" 302 -
+2023-12-06 10:57:51,531 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:51] "GET / HTTP/1.1" 200 -
+2023-12-06 10:57:51,571 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:51] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:57:51,627 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:51] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:57:51,654 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:51] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:57:51,798 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:51] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:57:51,808 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:51] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:57:51,829 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:51] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:57:54,821 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:54] "[32mGET /admin/cerrar HTTP/1.1[0m" 302 -
+2023-12-06 10:57:54,928 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:54] "GET / HTTP/1.1" 200 -
+2023-12-06 10:57:54,975 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:54] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:57:54,978 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:54] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:57:54,988 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:54] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:57:54,989 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:54] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:57:54,999 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:54] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:57:55,000 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:55] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:57:56,068 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:56] "GET /admin/login2 HTTP/1.1" 200 -
+2023-12-06 10:57:56,106 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:56] "GET /admin/sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:57:56,109 - INFO - 127.0.0.1 - - [06/Dec/2023 10:57:56] "GET /admin/css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:58:01,279 - INFO - 127.0.0.1 - - [06/Dec/2023 10:58:01] "[32mPOST /admin/login2 HTTP/1.1[0m" 302 -
+2023-12-06 10:58:01,289 - INFO - 127.0.0.1 - - [06/Dec/2023 10:58:01] "GET / HTTP/1.1" 200 -
+2023-12-06 10:58:01,331 - INFO - 127.0.0.1 - - [06/Dec/2023 10:58:01] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 10:58:01,335 - INFO - 127.0.0.1 - - [06/Dec/2023 10:58:01] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 10:58:01,343 - INFO - 127.0.0.1 - - [06/Dec/2023 10:58:01] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 10:58:01,352 - INFO - 127.0.0.1 - - [06/Dec/2023 10:58:01] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 10:58:01,356 - INFO - 127.0.0.1 - - [06/Dec/2023 10:58:01] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 10:58:01,358 - INFO - 127.0.0.1 - - [06/Dec/2023 10:58:01] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:01:47,534 - INFO - 127.0.0.1 - - [06/Dec/2023 11:01:47] "GET /nosotros HTTP/1.1" 200 -
+2023-12-06 11:01:47,562 - INFO - 127.0.0.1 - - [06/Dec/2023 11:01:47] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:01:47,575 - INFO - 127.0.0.1 - - [06/Dec/2023 11:01:47] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:01:47,583 - INFO - 127.0.0.1 - - [06/Dec/2023 11:01:47] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:01:49,493 - INFO - 127.0.0.1 - - [06/Dec/2023 11:01:49] "[36mGET /img/cristian.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:01:49,536 - INFO - 127.0.0.1 - - [06/Dec/2023 11:01:49] "[36mGET /img/danilo.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:11:38,776 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-06 11:11:38,776 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 11:11:38,784 - INFO -  * Restarting with stat
+2023-12-06 11:11:39,313 - WARNING -  * Debugger is active!
+2023-12-06 11:11:39,328 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 11:11:43,673 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:43] "GET / HTTP/1.1" 200 -
+2023-12-06 11:11:43,721 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:43] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:11:43,722 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:43] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:11:43,757 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:43] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:11:43,911 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:43] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:11:43,912 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:43] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:11:43,927 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:43] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:11:47,451 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:47] "[32mGET /admin/cerrar HTTP/1.1[0m" 302 -
+2023-12-06 11:11:47,459 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:47] "GET / HTTP/1.1" 200 -
+2023-12-06 11:11:47,480 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:47] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:11:47,484 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:47] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:11:47,489 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:47] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:11:47,493 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:47] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:11:47,515 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:47] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:11:47,521 - INFO - 127.0.0.1 - - [06/Dec/2023 11:11:47] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:12:46,890 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:46] "GET /admin/login2 HTTP/1.1" 200 -
+2023-12-06 11:12:46,966 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:46] "GET /admin/css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:12:46,992 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:46] "GET /admin/sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:12:56,976 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:56] "[32mPOST /admin/login2 HTTP/1.1[0m" 302 -
+2023-12-06 11:12:56,987 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:56] "GET / HTTP/1.1" 200 -
+2023-12-06 11:12:57,026 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:57] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:12:57,027 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:57] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:12:57,037 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:57] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:12:57,039 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:57] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:12:57,048 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:57] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:12:57,050 - INFO - 127.0.0.1 - - [06/Dec/2023 11:12:57] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:13,605 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:13] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:22:13,644 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:13] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:22:13,648 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:13] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:22:13,657 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:13] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:13,658 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:13] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:13,667 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:13] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:13,672 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:13] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:13,676 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:13] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:13,677 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:13] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:22:23,504 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:23] "GET /carrito HTTP/1.1" 200 -
+2023-12-06 11:22:23,546 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:23] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:22:23,551 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:23] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:22:23,558 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:23] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:23,562 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:23] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:23,567 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:23] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:23,570 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:23] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:22:26,248 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:26] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:22:26,277 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:26] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:22:26,286 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:26] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:22:26,289 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:26] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:26,295 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:26] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:26,298 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:26] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:26,309 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:26] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:26,309 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:26] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:22:26,309 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:26] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:52,013 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:22:52,044 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:22:52,046 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:22:52,055 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:52,060 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:52,063 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:22:52,068 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:52,072 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:52,074 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:52,684 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "GET / HTTP/1.1" 200 -
+2023-12-06 11:22:52,732 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:22:52,736 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:22:52,748 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:52,754 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:52,756 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:22:52,770 - INFO - 127.0.0.1 - - [06/Dec/2023 11:22:52] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:24:59,345 - INFO - 127.0.0.1 - - [06/Dec/2023 11:24:59] "GET /carrito HTTP/1.1" 200 -
+2023-12-06 11:24:59,376 - INFO - 127.0.0.1 - - [06/Dec/2023 11:24:59] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:24:59,380 - INFO - 127.0.0.1 - - [06/Dec/2023 11:24:59] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:24:59,386 - INFO - 127.0.0.1 - - [06/Dec/2023 11:24:59] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:24:59,387 - INFO - 127.0.0.1 - - [06/Dec/2023 11:24:59] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:25:01,283 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:01] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:25:01,300 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:01] "GET /carrito HTTP/1.1" 200 -
+2023-12-06 11:25:01,410 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:01] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:25:01,413 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:01] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:25:01,424 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:01] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:25:01,426 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:01] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:25:01,426 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:01] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:25:01,429 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:01] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:25:23,734 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:23] "GET /admin/login2 HTTP/1.1" 200 -
+2023-12-06 11:25:23,764 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:23] "GET /admin/sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:25:23,766 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:23] "GET /admin/css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:25:31,778 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:31] "[32mPOST /admin/login2 HTTP/1.1[0m" 302 -
+2023-12-06 11:25:31,943 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:31] "GET /admin HTTP/1.1" 200 -
+2023-12-06 11:25:33,984 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:33] "GET /admin/autos HTTP/1.1" 200 -
+2023-12-06 11:25:34,018 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:34] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:25:34,025 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:34] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:25:34,029 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:34] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:25:34,031 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:34] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:25:34,033 - INFO - 127.0.0.1 - - [06/Dec/2023 11:25:34] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:15,894 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:15] "[32mGET /admin/cerrar HTTP/1.1[0m" 302 -
+2023-12-06 11:26:15,901 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:15] "GET / HTTP/1.1" 200 -
+2023-12-06 11:26:15,931 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:15] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:26:15,942 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:15] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:26:15,948 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:15] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:15,949 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:15] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:15,951 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:15] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:26:15,951 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:15] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:23,624 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:23] "GET /admin/login2 HTTP/1.1" 200 -
+2023-12-06 11:26:23,649 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:23] "GET /admin/sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:26:23,657 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:23] "GET /admin/css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:26:28,800 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:28] "GET /admin/autos HTTP/1.1" 200 -
+2023-12-06 11:26:28,826 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:28] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:28,841 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:28] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:28,843 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:28] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:28,845 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:28] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:28,846 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:28] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:39,745 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:39] "[32mGET /admin/cerrar HTTP/1.1[0m" 302 -
+2023-12-06 11:26:39,758 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:39] "GET / HTTP/1.1" 200 -
+2023-12-06 11:26:39,791 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:39] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:26:39,802 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:39] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:26:39,806 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:39] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:39,807 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:39] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:26:39,808 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:39] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:26:39,810 - INFO - 127.0.0.1 - - [06/Dec/2023 11:26:39] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:34:05,669 - INFO -  * Detected change in 'c:\\Users\\Danilo Narvaez\\Documents\\UNIVERSIDAD\\Semestre 10\\SEMINARIO 2\\PROYECTO NUEVO\\Concesionario\\app.py', reloading
+2023-12-06 11:34:05,756 - INFO -  * Restarting with stat
+2023-12-06 11:34:06,806 - WARNING -  * Debugger is active!
+2023-12-06 11:34:06,832 - INFO -  * Debugger PIN: 928-031-533
+2023-12-06 11:35:19,404 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:19] "GET / HTTP/1.1" 200 -
+2023-12-06 11:35:19,518 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:19] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:19,536 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:19] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:19,730 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:19] "GET /img/Audi.jpg HTTP/1.1" 200 -
+2023-12-06 11:35:19,731 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:19] "GET /img/suvbmq.jpeg HTTP/1.1" 200 -
+2023-12-06 11:35:19,752 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:19] "GET /img/audi-negro%20-%20copia.jpg HTTP/1.1" 200 -
+2023-12-06 11:35:19,765 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:19] "GET /img/Logo_Elite.png HTTP/1.1" 200 -
+2023-12-06 11:35:19,778 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:19] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:20,006 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:20] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:26,418 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:26] "GET /admin/login2 HTTP/1.1" 200 -
+2023-12-06 11:35:26,444 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:26] "GET /admin/sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:26,451 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:26] "GET /admin/css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:32,415 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:32] "[32mPOST /admin/login2 HTTP/1.1[0m" 302 -
+2023-12-06 11:35:32,425 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:32] "GET / HTTP/1.1" 200 -
+2023-12-06 11:35:32,462 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:32] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:32,465 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:32] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:32,477 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:32] "[36mGET /img/suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:32,478 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:32] "[36mGET /img/Audi.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:32,499 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:32] "[36mGET /img/audi-negro%20-%20copia.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:32,503 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:32] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:32,504 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:32] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:35,358 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:35] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:35:35,388 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:35] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:35,391 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:35] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:35,412 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:35] "GET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1" 200 -
+2023-12-06 11:35:35,415 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:35] "GET /img/2023020057_Audi_A7.jpg HTTP/1.1" 200 -
+2023-12-06 11:35:35,416 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:35] "GET /img/2023232257_suvbmq.jpeg HTTP/1.1" 200 -
+2023-12-06 11:35:35,419 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:35] "GET /img/2023233934_chevorlet.jpg HTTP/1.1" 200 -
+2023-12-06 11:35:35,440 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:35] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:35,444 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:35] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:37,013 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "[32mPOST /guardar_card HTTP/1.1[0m" 302 -
+2023-12-06 11:35:37,045 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:35:37,106 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:37,110 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:37,129 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:37,131 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:37,147 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:37,157 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:37,158 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:37,164 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:37] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:41,128 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:41] "GET /carrito HTTP/1.1" 200 -
+2023-12-06 11:35:41,160 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:41] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:41,171 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:41] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:41,175 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:41] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:41,184 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:41] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:41,187 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:41] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:41,193 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:41] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:41,199 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:41] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:41,205 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:41] "GET /img/2023232240_sportage.jpg HTTP/1.1" 200 -
+2023-12-06 11:35:44,369 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:44] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:35:44,409 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:44] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:44,413 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:44] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:44,422 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:44] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:44,430 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:44] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:44,431 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:44] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:44,435 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:44] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:44,441 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:44] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:44,442 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:44] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:45,422 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:45] "GET /carrito HTTP/1.1" 200 -
+2023-12-06 11:35:45,460 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:45] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:45,471 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:45] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:45,474 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:45] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:45,483 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:45] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:45,488 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:45] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:45,489 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:45] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:45,493 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:45] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:45,498 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:45] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:46,274 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:46] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:35:46,307 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:46] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:46,318 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:46] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:46,325 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:46] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:46,331 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:46] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:46,337 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:46] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:46,337 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:46] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:46,349 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:46] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:46,353 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:46] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:49,454 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:49] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:35:49,485 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:49] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:49,488 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:49] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:49,495 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:49] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:49,502 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:49] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:49,513 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:49] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:49,517 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:49] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:49,519 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:49] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:49,520 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:49] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:51,350 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:51] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:35:51,384 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:51] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:51,385 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:51] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:51,397 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:51] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:51,401 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:51] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:51,414 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:51] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:51,416 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:51] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:51,418 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:51] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:35:51,421 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:51] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:54,976 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:54] "[32mPOST /guardar_card HTTP/1.1[0m" 302 -
+2023-12-06 11:35:54,989 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:54] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:35:55,017 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:55] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:35:55,021 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:55] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:35:55,026 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:55] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:55,032 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:55] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:55,045 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:55] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:35:55,050 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:55] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:55,052 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:55] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:35:55,054 - INFO - 127.0.0.1 - - [06/Dec/2023 11:35:55] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:36:00,152 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "[32mPOST /guardar_card HTTP/1.1[0m" 302 -
+2023-12-06 11:36:00,182 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:36:00,216 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:36:00,227 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:36:00,232 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:00,233 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:00,253 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:36:00,255 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:00,257 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:36:00,259 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:00,928 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "[32mPOST /guardar_card HTTP/1.1[0m" 302 -
+2023-12-06 11:36:00,956 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:36:00,997 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:00] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:36:01,001 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:01] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:36:01,007 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:01] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:01,013 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:01] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:01,028 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:01] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:01,029 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:01] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:36:01,035 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:01] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:01,040 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:01] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:36:02,261 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:02] "GET /carrito HTTP/1.1" 200 -
+2023-12-06 11:36:02,290 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:02] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:36:02,300 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:02] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:36:02,304 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:02] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:02,305 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:02] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:02,314 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:02] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:02,318 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:02] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:36:02,327 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:02] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:36:02,328 - INFO - 127.0.0.1 - - [06/Dec/2023 11:36:02] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:37:09,115 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:09] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:37:09,151 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:09] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:37:09,164 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:09] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:37:09,171 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:09] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:09,175 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:09] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:09,179 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:09] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:09,181 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:09] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:09,187 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:09] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:37:09,189 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:09] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:37:11,163 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:11] "GET /autos?page=2 HTTP/1.1" 200 -
+2023-12-06 11:37:11,201 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:11] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:37:11,211 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:11] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:37:11,215 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:11] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:11,216 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:11] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:37:11,230 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:11] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:37:12,526 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:12] "GET /autos?page=3 HTTP/1.1" 200 -
+2023-12-06 11:37:12,562 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:12] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:37:12,572 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:12] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:37:12,578 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:12] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:37:12,581 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:12] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:37:14,253 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:14] "GET /autos?page=4 HTTP/1.1" 200 -
+2023-12-06 11:37:14,291 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:14] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:37:14,295 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:14] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:37:14,302 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:14] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:37:14,304 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:14] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:37:15,641 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:15] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:37:15,678 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:15] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:37:15,686 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:15] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:37:15,697 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:15] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:15,705 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:15] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:15,709 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:15] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:15,710 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:15] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:37:15,711 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:15] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:37:15,714 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:15] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:17,104 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:17] "GET /autos?page=2 HTTP/1.1" 200 -
+2023-12-06 11:37:17,141 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:17] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:37:17,148 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:17] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:37:17,157 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:17] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:17,159 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:17] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:37:17,167 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:17] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:37:18,034 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:18] "GET /autos?page=3 HTTP/1.1" 200 -
+2023-12-06 11:37:18,062 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:18] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:37:18,074 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:18] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:37:18,079 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:18] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:37:18,079 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:18] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:37:19,384 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:19] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:37:19,421 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:19] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:37:19,433 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:19] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:37:19,437 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:19] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:19,447 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:19] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:19,454 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:19] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:37:19,455 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:19] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:37:19,458 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:19] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:37:19,459 - INFO - 127.0.0.1 - - [06/Dec/2023 11:37:19] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:41:47,049 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:47] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:41:47,093 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:47] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:41:47,097 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:47] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:41:47,107 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:47] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:41:47,110 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:47] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:41:47,124 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:47] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:41:47,127 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:47] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:41:47,141 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:47] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:41:47,143 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:47] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:41:49,927 - INFO - 127.0.0.1 - - [06/Dec/2023 11:41:49] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:42:06,099 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:06] "GET /carrito HTTP/1.1" 200 -
+2023-12-06 11:42:06,154 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:06] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:42:06,157 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:06] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:42:06,168 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:06] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:42:06,171 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:06] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:42:06,174 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:06] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:42:06,181 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:06] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:42:06,182 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:06] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:42:06,188 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:06] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:42:07,106 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:07] "GET /nosotros HTTP/1.1" 200 -
+2023-12-06 11:42:07,139 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:07] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:42:07,147 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:07] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:42:07,161 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:07] "GET /img/cristian.jpg HTTP/1.1" 200 -
+2023-12-06 11:42:07,164 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:07] "GET /img/danilo.jpg HTTP/1.1" 200 -
+2023-12-06 11:42:07,165 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:07] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:42:07,168 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:07] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:42:08,421 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:08] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:42:08,464 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:08] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:42:08,473 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:08] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:42:08,475 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:08] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:42:08,483 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:08] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:42:08,492 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:08] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:42:08,495 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:08] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:42:08,497 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:08] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:42:08,501 - INFO - 127.0.0.1 - - [06/Dec/2023 11:42:08] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:43:10,569 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:43:10,596 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:43:10,599 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:43:10,608 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:43:10,610 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:43:10,704 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:43:10,707 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:43:10,708 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:43:10,713 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:43:10,759 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:10] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:43:12,848 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:12] "GET /autos?page=2 HTTP/1.1" 200 -
+2023-12-06 11:43:12,885 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:12] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:43:12,894 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:12] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:43:12,897 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:12] "[36mGET /img/2023232240_sportage.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:43:12,900 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:12] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
+2023-12-06 11:43:12,904 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:12] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:43:15,144 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:15] "GET /autos HTTP/1.1" 200 -
+2023-12-06 11:43:15,171 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:15] "GET /sitio/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-12-06 11:43:15,181 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:15] "GET /css/estilos.css HTTP/1.1" 200 -
+2023-12-06 11:43:15,190 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:15] "[36mGET /img/2023232257_suvbmq.jpeg HTTP/1.1[0m" 304 -
+2023-12-06 11:43:15,193 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:15] "[36mGET /img/2023233934_chevorlet.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:43:15,196 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:15] "GET /sitio/js/bootstrap.min.js HTTP/1.1" 200 -
+2023-12-06 11:43:15,198 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:15] "[36mGET /img/2023021056_Renault_captur%20(1).jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:43:15,200 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:15] "[36mGET /img/2023020057_Audi_A7.jpg HTTP/1.1[0m" 304 -
+2023-12-06 11:43:15,207 - INFO - 127.0.0.1 - - [06/Dec/2023 11:43:15] "[36mGET /img/Logo_Elite.png HTTP/1.1[0m" 304 -
